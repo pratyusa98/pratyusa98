@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
+
 
 # I'm Pratyusa Dwibedy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
@@ -17,6 +18,8 @@
 - 💬 Reach me, ask me anything & anytime, I will be happy to help
 - 📫 How to reach me: I am always active on Linkedin & Gmail, so u can ping me.
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat. Thats all !!!
+
+<img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif"  width="200vw" >
 
 ![Pratyusa dwibedy's github stats](https://github-readme-stats.vercel.app/api?username=pratyusa98&show_icons=true&hide_border=true)
 
