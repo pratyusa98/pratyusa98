@@ -1,16 +1,36 @@
 ### Hi there 👋
 
-<!--
-**pratyusa98/pratyusa98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Pratyusa Dwibedy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓A little about me, I'm Pratyusa Dwibedy, Data Science and Machine Learning enthusiast, Web and Python Developer , Odisha, India, Completed B.tech in Computer Science and Engineering 😎.Now i am Doing Master's in Computer Science. My hobby is to playing Video Games Like GTA,IGI,The Witcher etc. 
+
+
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/5YEgnkjeryvwA/giphy.gif">
+
+## Some Of My Work !&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+- 👨🏽‍💻 I am Currently working on imporving my AI, ML and Deep Learning skills 
+- 💬 My all work in Machine Learning Look into My Repo.
+- 🏄‍ Always into learning new things and looking to contribute to open source as much as possible
+- 💬 Reach me, ask me anything & anytime, I will be happy to help
+- 📫 How to reach me: I am always active on Linkedin & Gmail, so u can ping me.
+- ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat. Thats all !!!
+
+![Pratyusa dwibedy's github stats](https://github-readme-stats.vercel.app/api?username=pratyusa98&show_icons=true&hide_border=true)
+
+
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
+
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/pdwibedy/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/pratyusa98) |  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:pratyusacool@gmail.com)
+
+<br>
+<br>
+
+
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
