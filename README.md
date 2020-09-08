@@ -10,7 +10,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/5YEgnkjeryvwA/giphy.gif">
 
-## Some Of My Work !&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Some About Me !&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 👨🏽‍💻 I am Currently working on imporving my AI, ML and Deep Learning skills 
 - 💬 My all work in Machine Learning Look into My Repo.
