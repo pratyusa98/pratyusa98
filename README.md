@@ -27,7 +27,7 @@
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
-<img align="center" alt="JPG" src="https://pratyusa98.github.io/My_portfolio/img/design.jpg">
+<img align="center" alt="JPG" src="https://pratyusa98.github.io/My_portfolio/img/design.jpg" height="150px">
 
 
 
