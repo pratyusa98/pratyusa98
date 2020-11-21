@@ -1,6 +1,7 @@
 ### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
 
 ![](https://komarev.com/ghpvc/?username=pratyusa98&color=green)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
 
 
 # I'm Pratyusa Dwibedy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
@@ -43,4 +44,4 @@
 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
+
