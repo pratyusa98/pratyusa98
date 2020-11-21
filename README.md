@@ -27,9 +27,11 @@
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
-<img align="center" alt="JPG" src="https://pratyusa98.github.io/My_portfolio/img/design.jpg" height="300px">
 
 
+<p align="center">
+ <img align="center" alt="JPG" src="https://pratyusa98.github.io/My_portfolio/img/design.jpg" height="300px">
+</p>
 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/pdwibedy/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/pratyusa98) |  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:pratyusacool@gmail.com)
 
