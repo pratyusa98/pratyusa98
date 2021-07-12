@@ -23,7 +23,7 @@
 - 📫 How to reach me: I am always active on Linkedin & Gmail, so u can ping me.
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat. Thats all !!!
 
-<hr> 
+
 
 <hr>
 
@@ -31,6 +31,7 @@
 |---|---|
 
 
+<hr>
 
 <p align="center">
  <img align="center" alt="JPG" src="https://pratyusa98.github.io/My_portfolio/img/design.jpg" height="300px">
