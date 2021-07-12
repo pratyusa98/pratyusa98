@@ -3,15 +3,16 @@
 ![](https://komarev.com/ghpvc/?username=pratyusa98&color=green)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pratyush98)
 
+ ![Visitor Count](https://profile-counter.glitch.me/pratyush98/count.svg)
 
-# I'm Pratyusa Dwibedy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+<h1 align="center"><a href="https://www.linkedin.com/in/pdwibedy/"><img src="https://img.shields.io/badge/-Pratyusa Dwibedy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pdwibedy/"/></a> &nbsp;&nbsp;I'm Pratyush Dwibedy &nbsp;&nbsp;<a href="mailto:pratyusacool@gmail.com"><img src="https://img.shields.io/badge/-pratyusacool@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratyusacool@gmail.com"/></a></h1>
 
+<h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"> </h2>
 
+<p align="center">
 🎓A little about me, I'm Pratyusa Dwibedy, Data Science and Machine Learning enthusiast, Web and Python Developer , Odisha, India, Completed B.tech in Computer Science and Engineering 😎.Now i am Doing Master's in Computer Science. My hobby is to playing Video Games Like GTA,IGI,The Witcher etc. 
-
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/5YEgnkjeryvwA/giphy.gif">
+</p>
+<hr>
 
 ## Some About Me !&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -22,15 +23,12 @@
 - 📫 How to reach me: I am always active on Linkedin & Gmail, so u can ping me.
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat. Thats all !!!
 
-<img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif"  width="200vw" >
+<hr> 
 
- ![Visitor Count](https://profile-counter.glitch.me/pratyush98/count.svg)
+<hr>
 
-![Pratyusa dwibedy's github stats](https://github-readme-stats.vercel.app/api?username=pratyusa98&show_icons=true&hide_border=true)
-
-
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
+|<img src="https://github-readme-stats.vercel.app/api?username=pratyusa98&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyusa98"/>|
+|---|---|
 
 
 
@@ -39,9 +37,6 @@
 
 </p>
 
-
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/pdwibedy/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">]() | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">]()| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/pratyusa98) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/PratyusaDwibedy) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:pratyusacool@gai.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 
